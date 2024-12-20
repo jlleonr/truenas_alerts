@@ -4,7 +4,8 @@ Script for periodically fetching TrueNAS alerts from a local server and sending 
 them as push notifications through [Ntfy](https://ntfy.sh/). <br/>
 After the fetched alerts have been sent, they will be dismissed from the TrueNAS <br/>
 User Interface. <br/>
-Critical alerts will not be dismissed from the UI for further investigation.
+Critical alerts will not be dismissed from the UI for further investigation.<br/>
+Events are logged locally for debugging and troubleshooting.
 <br/>
 <br/>
 ## Examples
