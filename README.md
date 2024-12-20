@@ -10,6 +10,7 @@ Critical alerts will not be dismissed from the UI for further investigation.
 ## Examples
 - Mobile notifications: <br>
 ![Mobile notifications](https://github.com/jlleonr/jlleonr/blob/main/assets/IMG_1980.jpg)
-
+<br>
+<br>
 - Critical alerts: <br>
 ![Critical alerts](https://github.com/jlleonr/jlleonr/blob/main/assets/IMG_1981.jpg)
